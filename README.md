@@ -15,15 +15,15 @@ Register Page(will be successful for valid credentials):
 Login Page(authentication):
 On submitting valid credentials it will redirects to the homepage.
 
-![image](https://github.com/r-abinaya/BlogApp/assets/105599764/2a20b4b2-16c3-4061-be10-e23db40e01ed)
+![image](https://github.com/r-abinaya/BlogApp/assets/105599764/7f31d64c-f772-42d0-8b62-26d4b58494f4)
 
 You can see create post and logout options after logged in on the right side.
 
-![image](https://github.com/r-abinaya/BlogApp/assets/105599764/2718b95c-820a-41f7-84d5-d96ebb2f400e)
+![image](https://github.com/r-abinaya/BlogApp/assets/105599764/fd966092-1b3d-4a4b-ba0b-fe223fe81848)
 
 Creating new post:
 
-![image](https://github.com/r-abinaya/BlogApp/assets/105599764/51bfc77d-7a2e-4655-9637-0b9aedcf441d)
+![image](https://github.com/r-abinaya/BlogApp/assets/105599764/73afa0fd-c4df-4993-b313-00677ad5b1a7)
 
 Your post will be displayed to all:
 
