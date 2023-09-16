@@ -27,8 +27,10 @@ Creating new post:
 
 Your post will be displayed to all:
 
-![image](https://github.com/r-abinaya/BlogApp/assets/105599764/fb366ba2-d9e4-4f2a-8fbb-3a95ae2d252c)
+![image](https://github.com/r-abinaya/BlogApp/assets/105599764/3e62b8d7-9c5e-4f4d-8bd0-e34c07c6ded4)
 
 You can see edit option on entering into your post where you can edit your post:
 
-![image](https://github.com/r-abinaya/BlogApp/assets/105599764/bbb69d1b-a387-442c-99c2-3e371e8706e4)
+![Uploading image.png…]()
+
+
