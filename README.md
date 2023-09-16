@@ -10,7 +10,7 @@ On clicking a Blog, you can read it.
 
 Register Page(will be successful for valid credentials):
 
-![image](https://github.com/r-abinaya/BlogApp/assets/105599764/62b24b05-9e17-4c9e-8e3d-6b5fb427c0ec)
+![image](https://github.com/r-abinaya/BlogApp/assets/105599764/75af667a-4453-41d2-a477-1f6d71db9e3a)
 
 Login Page(authentication):
 On submitting valid credentials it will redirects to the homepage.
