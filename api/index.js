@@ -1,5 +1,6 @@
 const express=require('express');
 const app=express();
+require('dotenv').config();
 const cors= require('cors');
 const mongoose =require("mongoose");
 const bcrypt =require('bcryptjs');
@@ -23,7 +24,7 @@ app.use(express.json());
 app.use(cookieParser());
 app.use('/uploads',express.static(__dirname+'/uploads'));
 
-mongoose.connect('mongodb+srv://rabinaya2142003:0YuGxx2rLedsyAY6@cluster0.ojrtitu.mongodb.net/');
+mongoose.connect(process.env.MONGO_URL);
 
 app.post('/register',async (req,res)=>{
     const {username,password} =req.body;
